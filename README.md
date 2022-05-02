@@ -9,3 +9,6 @@ Add the weather data in the folder weather ,
 
 
 We forked the project at some point and Carlie Iskandar has additional commits if you check for carlieiskandar/project_group_15
+
+uni: pz2280
+uni:cmi2113
